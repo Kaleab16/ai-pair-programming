@@ -1,7 +1,5 @@
 # Task 1: AI Implementation & Quality
 
-# Task 1: AI Implementation & Quality
-
 ## Overview
 
 This project demonstrates the use of an AI pair programmer for three software
